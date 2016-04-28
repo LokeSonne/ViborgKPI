@@ -20,20 +20,20 @@ $(function(){
             if (window.filterValue === "alle"){
                 window.filterValue = "unge";
                 $('#ageFilter').css("background-color", "#D8D8D8");
+                $('#ageFilter').text("Viser unge under 30 år");
                 addKPIData();
                 loadChartDataAll();                            
             }
             else{
                 window.filterValue = "alle";
                 $('#ageFilter').css("background-color", "none");
+                $('#ageFilter').text("Viser alle aldersgrupper");
                 addKPIData();
                 loadChartDataAll();                
             }
             console.log(window.filterValue);
     });
 });
-
-
 
 //------------------Tilføjer KPI-bokse - uden data
 addKPIs()
