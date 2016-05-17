@@ -16,7 +16,7 @@ div#ageFilter.rfComponentContainer.rfWrapper.rfCore.rfChromeless {
     line-height: 100% !important;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     display: block;
-    margin-left: 25px;
+    margin-left: 5px;
     margin-right: 25px;
     margin-top: 10px;
     text-align: center;
@@ -33,19 +33,19 @@ div#note {
     height:1.3em !important;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     display: block;
-    margin-left: 25px;
+    margin-left: 5px;
     margin-right: 25px;
     overflow: hidden;  
 }
 
 div#dbTargetCharts {
     display: block;
-    margin-left: 25spx;
+    margin-left: 5px;
     margin-right: 25px;
 }
 
 div#dbTarget {
     display: block;
-    margin-left: 25px;
+    margin-left: 5px;
     margin-right: 25px;
 }
