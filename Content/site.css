@@ -12,13 +12,13 @@ div.KPIActive {
 
 div#ageFilter.rfComponentContainer.rfWrapper.rfCore.rfChromeless {
     height: 2.5em;
-    font-size: 1.5em !important;
+    font-size: 0.7em !important;
     line-height: 100% !important;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     display: block;
     margin-left: 10px;
     margin-right: 10px;
-    margin-top: 10px;
+    /*margin-top: 10px;*/
     text-align: center;
     /*vertical-align: middle;*/
     overflow: hidden;
