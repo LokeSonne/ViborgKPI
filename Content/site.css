@@ -33,14 +33,14 @@ div#note {
     height:1.3em !important;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     display: block;
-    margin-left: 15px;
-    margin-right: 15px;
+    margin-left: 25px;
+    margin-right: 25px;
     overflow: hidden;  
 }
 
 div#dbTargetCharts {
     display: block;
-    margin-left: 25px;
+    margin-left: 25spx;
     margin-right: 25px;
 }
 
