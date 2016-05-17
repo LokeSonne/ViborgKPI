@@ -16,8 +16,8 @@ div#ageFilter.rfComponentContainer.rfWrapper.rfCore.rfChromeless {
     line-height: 100% !important;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     display: block;
-    margin-left: 5px;
-    margin-right: 25px;
+    margin-left: 0px;
+    margin-right: 0px;
     margin-top: 10px;
     text-align: center;
     /*vertical-align: middle;*/
@@ -40,12 +40,12 @@ div#note {
 
 div#dbTargetCharts {
     display: block;
-    margin-left: 5px;
-    margin-right: 25px;
+    margin-left: 35px;
+    margin-right: 35px;
 }
 
 div#dbTarget {
     display: block;
-    margin-left: 5px;
-    margin-right: 25px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
