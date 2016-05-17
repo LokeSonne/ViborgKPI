@@ -12,7 +12,7 @@ div.KPIActive {
 
 div#ageFilter.rfComponentContainer.rfWrapper.rfCore.rfChromeless {
     height: 2.5em;
-    font-size: 0.7em !important;
+    font-size: 1.5em !important;
     line-height: 100% !important;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     display: block;
@@ -22,7 +22,7 @@ div#ageFilter.rfComponentContainer.rfWrapper.rfCore.rfChromeless {
     text-align: center;
     /*vertical-align: middle;*/
     overflow: hidden;
-    padding-top: 0.5em;
+    padding-top: 0.7em;
     padding-bottom: auto;
     cursor: pointer;   
 }
