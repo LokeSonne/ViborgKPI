@@ -12,7 +12,7 @@ div.KPIActive {
 
 div#ageFilter.rfComponentContainer.rfWrapper.rfCore.rfChromeless {
     height: 2.5em;
-    font-size: 1.5em !important;
+    font-size: 1.0em !important;
     line-height: 100% !important;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     display: block;
@@ -33,19 +33,19 @@ div#note {
     height:1.3em !important;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     display: block;
-    margin-left: 35px;
-    margin-right: 35px;
+    margin-left: 30px;
+    margin-right: 30px;
     overflow: hidden;  
 }
 
 div#dbTargetCharts {
     display: block;
-    margin-left: 35px;
-    margin-right: 35px;
+    margin-left: 30px;
+    margin-right: 30px;
 }
 
 div#dbTarget {
     display: block;
-    margin-left: 35px;
-    margin-right: 35px;
+    margin-left: 30px;
+    margin-right: 30px;
 }
